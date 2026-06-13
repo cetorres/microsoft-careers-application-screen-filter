@@ -36,7 +36,7 @@ const loadElements = () => {
 
 const runAfterSpinner = () => {
 	screenAppsTotal = [...document.querySelectorAll('div[class*="status-"]')].filter(el => el.textContent.trim() === 'Screen').length;
-	badgeLoaderElement.style.display = 'none';
+	badgeLoaderElement.remove();
 	addBadge();
 }
 
