@@ -4,6 +4,9 @@
  * 
  * Script can be used with Chrome extension:
  * User JavaScript and CSS V 3.1.2 or above.
+ *
+ * URL patterns: 
+ * https://apply.careers.microsoft.com/careers/applications*,https://microsoft.eightfold.ai/careers/applications*
  * 
  * Author: Carlos E. Torres <cetorres@cetorres.com>
  * GitHub: https://github.com/cetorres
